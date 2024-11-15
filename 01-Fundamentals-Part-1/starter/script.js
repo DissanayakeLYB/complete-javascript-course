@@ -1,5 +1,4 @@
-let note = "noice";
+const firstName = `Lasith`;
 
-if (note === "noice") {
-    alert("Noice!");
-}
+console.log(`Hello,
+my name is ${firstName}!`);
