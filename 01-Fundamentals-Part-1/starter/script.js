@@ -1,4 +1,3 @@
-const firstName = `Lasith`;
+const birthYear = 1999;
 
-console.log(`Hello,
-my name is ${firstName}!`);
+console.log(Number("Lasith"));
